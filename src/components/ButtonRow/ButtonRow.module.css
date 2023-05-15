@@ -1,2 +1,5 @@
 .buttonRow {
+    white-space: nowrap;
+    overflow-x: scroll;
+    margin: 20px 0;
 }
